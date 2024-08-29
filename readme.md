@@ -1,9 +1,18 @@
-## Hey there, I'm Ovahlord
+Hello, I'm Ovahlord. I'm a hobby C++ developer who is currently active in the World of Warcraft emulation scene. I've learned C++ all by myself ever since 2010 in order to be able to participate in the development of the emulation software.
+Over the years, I've picked up an interest in video game development as well, which was leading to me learning the basics of C# as my 2nd programming language.
 
-I'm a hobby C++ developer who has been into WoW private server development for well over a decade by now. I've learned C++ from scratch only to become able to work on the emulator software myself. I'm among the last few folks out there who do open source work and as of the time of writing this, I'm the only maintainer of the last Cataclysm expansion fork of TrinityCore that is somewhat up to date. Feel free to check it out here: [The Cataclysm Preservation Project](https://github.com/The-Cataclysm-Preservation-Project/TrinityCore)
+My Skillset:
+- 
+- C++ programming: implementation, refactoring, modernization and fixing of established code bases
+- C# programming: creation of development tools, basic applications and video game architectures
+- MySQL: basic operations of managing, creating, altering and updating databases and tables
+- 3d Modeling: fundamentals of 3d asset creation and optimization using open source solutions such as [Blender](https://www.blender.org/)
+- 2d and 3d art: advanced 2d digital art skills, primarily specialized in hand-drawn digital artworks, as well as intermetidate 3d art skills, using industry standard software such as [Adobe Substance Painter](https://www.adobe.com/de/products/substance3d-painter.html)
+- Unity3d: intermediate skills on creating and deploying video game applications and assets
 
-However, over the years I've also started to develop an interest in GameDev so I've picked up various game engines, such as Unity, Unreal and Godot, yet only Unity truly stuck with me due to it's unmatched accessibility when it comes to figuring things out. Because of that decision, I've been confronted with learning C# as well and by this time, this is my 2nd (proper) programming language that I've learned to use. While I'm diving into the depths of game development, I'm also maintaining a small repository with handy Unity components and APIs that I've written myself to build myself a small library of assets that can be used in multiple projects. Check it out here: [Unity Components](https://github.com/Ovahlord/UnityComponents)
-
-[![My GitHub stats](https://github-readme-stats.vercel.app/api/?username=ovahlord&theme=github_dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ovahlord&layout=compact&theme=github_dark)
+My Projects and Contributions:
+-
+- [TrinityCore](https://github.com/TrinityCore/TrinityCore) (Maintainer): current member of the project developers, maintaining and developing the cata_classic branch to offer emulation support for the World of Warcraft Cataclysm Classic game. Written in C++
+-  [The Cataclysm Preservation Project](https://github.com/The-Cataclysm-Preservation-Project/TrinityCore) (Project Lead): maintenance and development of a formerly abandoned branch of TrinityCore which has been resurrected and continued on my own behalf. Written in C++
+- [WaypointCreator Gen2](https://github.com/Ovahlord/WaypointCreatorGen2) (Lead Developer): creation and development of a developer tool for TrinityCore which can convert parsed packet sniff data into usable database data for the emulator. Featuring a Windows Forms UI and basic editing support. Written in C#
+- [UnityComponents](https://github.com/Ovahlord/UnityComponents) (Lead Developer): creation, maintenance and development of lightweight components and APIs for the Unity game engine. Aimed at providing easy to use tools to accelerate the development process and bringing over features which have enjoyed popularity in other game engines or video games.
