@@ -1,11 +1,11 @@
-Hello, I'm Ovahlord. I'm a hobby C++ developer who is currently active in the World of Warcraft emulation scene. I've learned C++ all by myself ever since 2010 in order to be able to participate in the development of the emulation software.
-Over the years, I've picked up an interest in video game development as well, which was leading to me learning the basics of C# as my 2nd programming language.
+Hello, I'm Ovahlord. I'm a hobby C++ developer and employed C# dev who is currently active in the World of Warcraft emulation scene. My C++ skillset is the result of self-teaching efforts made to become able to participate in the open source development spectrum. I've learned most of my skills from academics and field experts to ensure that my standards and style matches with that of mainstream development.
+After pursuing my career of becoming a fully fledged software developer, I've been confronted with C# and thanks to my prior C++ knowledge, I learned the fundamentals relatively quickly. In my spare time I'm  using these two languages for my own personal projects in order to evolve and reinforce my skillset.
 
 My Skillset:
-- 
+-
 - C++ programming: implementation, refactoring, modernization and fixing of established code bases
-- C# programming: creation of development tools, basic applications and video game architectures
-- MySQL: basic operations of managing, creating, altering and updating databases and tables
+- C# programming: intermediate knowledge of designing, developing and maintaining .NET and .NET Framework applications. I've also been involved in migrating multiple projects from .NET Framework to .NET 8.
+- Database: basic operations of managing, creating, altering and updating databases and tables, including establishing relations, ensuring data integrity using the DBMs MySQL, MariaDB and Oracle Database.
 - 3d Modeling: fundamentals of 3d asset creation and optimization using open source solutions such as [Blender](https://www.blender.org/)
 - 2d and 3d art: advanced 2d digital art skills, primarily specialized in hand-drawn digital artworks, as well as intermetidate 3d art skills, using industry standard software such as [Adobe Substance Painter](https://www.adobe.com/de/products/substance3d-painter.html)
 - Unity3d: intermediate skills on creating and deploying video game applications and assets
