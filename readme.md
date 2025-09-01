@@ -4,7 +4,7 @@ After pursuing my career of becoming a fully fledged software developer, I've be
 My Skillset:
 -
 - C++ programming: implementation, refactoring, modernization and fixing of established code bases
-- C# programming: intermediate knowledge of designing, developing and maintaining .NET and .NET Framework applications. I've also been involved in migrating multiple projects from .NET Framework to .NET 8.
+- C# programming: intermediate knowledge of designing, developing and maintaining .NET and .NET Framework applications. I've also been involved in migrating multiple projects from .NET Framework to .NET 8 and writing minimal ASP.NET Core WebAPI and gRPC services
 - Database: basic operations of managing, creating, altering and updating databases and tables, including establishing relations, ensuring data integrity using the DBMs MySQL, MariaDB and Oracle Database.
 - 3d Modeling: fundamentals of 3d asset creation and optimization using open source solutions such as [Blender](https://www.blender.org/)
 - 2d and 3d art: advanced 2d digital art skills, primarily specialized in hand-drawn digital artworks, as well as intermetidate 3d art skills, using industry standard software such as [Adobe Substance Painter](https://www.adobe.com/de/products/substance3d-painter.html)
