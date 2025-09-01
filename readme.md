@@ -1,4 +1,4 @@
-Hello, I'm Ovahlord. I'm a hobby C++ developer and employed C# dev who is currently active in the World of Warcraft emulation scene. My C++ skillset is the result of self-teaching efforts made to become able to participate in the open source development spectrum. I've learned most of my skills from academics and field experts to ensure that my standards and style matches with that of mainstream development.
+Hello, I'm Ovahlord. I'm a hobby C++ developer and employed enterprise C# dev who is currently active in the World of Warcraft emulation scene. My C++ skillset is the result of self-teaching efforts made to become able to participate in the open source development spectrum. I've learned most of my skills from academics and field experts to ensure that my standards and style matches with that of mainstream development.
 After pursuing my career of becoming a fully fledged software developer, I've been confronted with C# and thanks to my prior C++ knowledge, I learned the fundamentals relatively quickly. In my spare time I'm  using these two languages for my own personal projects in order to evolve and reinforce my skillset.
 
 My Skillset:
