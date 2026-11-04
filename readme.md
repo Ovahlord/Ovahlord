@@ -12,6 +12,8 @@ My Skillset:
 
 My Projects and Contributions:
 -
+- [CataCraft](https://github.com/Ovahlord/CataCraft) (Owner): My personal approach of writing an MMO-Emulator in C# and modern .NET
+- [Spellwork2](https://github.com/Ovahlord/Spellwork2) (Owner): A tool for TrinityCore development compatible with modern WoW client database file to visualize spell data across multiple tables
 - [TrinityCore](https://github.com/TrinityCore/TrinityCore) (Maintainer): current member of the project developers, maintaining and developing the cata_classic branch to offer emulation support for the World of Warcraft Cataclysm Classic game. Written in C++
 -  [The Cataclysm Preservation Project](https://github.com/The-Cataclysm-Preservation-Project/TrinityCore) (Project Lead): maintenance and development of a formerly abandoned branch of TrinityCore which has been resurrected and continued on my own behalf. Written in C++
 - [WaypointCreator Gen2](https://github.com/Ovahlord/WaypointCreatorGen2) (Lead Developer): creation and development of a developer tool for TrinityCore which can convert parsed packet sniff data into usable database data for the emulator. Featuring a Windows Forms UI and basic editing support. Written in C#
